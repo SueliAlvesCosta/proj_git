@@ -1,1 +1,2 @@
-primeira linha do projeto no repositporio local ( escrita pela usuária sueli)
+Primeira linha do projeto no repositório local ( escrita pela usuária sueli)
+Segunda linha do projeto, após criação do repositório remoto
